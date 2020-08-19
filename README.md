@@ -1,5 +1,7 @@
 # MOZ_text: Text extension for glTF
 
+Video: https://twitter.com/feiss/status/1250471454883356675
+
 This is an extension for glTF to support text objects.
 
 The aim is not to save the mesh but only metadata about the content, font and text properties, so it is in the final application the decision of how to interpret and render it.
